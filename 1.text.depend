@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682343347 source:e:\c\1.text\main.c
+
+1682399343 source:e:\c\1.text\1_data swapinng.c
+	<stdio.h>
+
